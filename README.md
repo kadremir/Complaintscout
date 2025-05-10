@@ -31,6 +31,7 @@ pip install cloudscraper beautifulsoup4 requests
 
 2. **Set up Ollama:**
 ```bash
+#DONT FORGET TO CHANGE OLLAMA API URL PART İN CODE#
 ollama pull mistral
 ollama serve
 ```
@@ -135,6 +136,7 @@ pip install cloudscraper beautifulsoup4 requests
 
 2. **Ollama'yı ayarlayın:**
 ```bash
+#KODDAKİ OLLAMA-API-URL KISMINI DEĞİŞTİRMEYİ UNUTMAYIN#
 ollama pull mistral
 ollama serve
 ```
